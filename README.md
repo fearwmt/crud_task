@@ -9,6 +9,6 @@ npx prisma migrate dev --name init
 npm run start:dev
 
 # In a new terminal: Frontend setup
-cd ../frontend
+cd frontend
 npm install
 npm run dev
